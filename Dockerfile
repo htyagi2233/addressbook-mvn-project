@@ -9,3 +9,4 @@ EXPOSE 8080
 
 # Command to run Tomcat
 CMD ["catalina.sh", "run"]
+
